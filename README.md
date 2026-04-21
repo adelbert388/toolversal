@@ -84,7 +84,6 @@ Toolversal is the kind of platform that works well in a personal resources list 
 - All Tools: https://toolversal.com/tools
 - Tutorials: https://toolversal.com/tutorial
 - Blog: https://toolversal.com/blogs
-- Pricing: https://toolversal.com/pricing
 
 ## Final note
 
